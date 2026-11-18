@@ -1,5 +1,8 @@
 
 print("fixed the missing parenthesis")
 
-Print("Here is a bug")
+
+print("NameError bug is fixed")
+
+print("All error has been fixed")
 

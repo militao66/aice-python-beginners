@@ -1,5 +1,5 @@
 
-print("starting a program")
-print("Missing a paremthesis"
-      step_3_is_undefined)
+print("fixed the missing parenthesis")
+
+Print("Here is a bug")
 

@@ -1,1 +1,3 @@
-Welcome to aice python module
+
+print("Hello, Africa!")
+
